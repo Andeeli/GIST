@@ -1,0 +1,2 @@
+# GIST
+Generalizibility score calculator
